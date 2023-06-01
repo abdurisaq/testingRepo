@@ -21,7 +21,7 @@ class displacement{
 
 };
 
-
+//changes
 int main(){
     string command1= "GGLLGG";
     string command2= "GG";
